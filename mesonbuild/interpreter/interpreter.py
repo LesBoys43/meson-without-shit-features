@@ -2429,7 +2429,7 @@ class Interpreter(InterpreterBase, HoldableObject):
                     if not isinstance(arg, valid_types):
                         raise InvalidArguments(f'structured_sources: type "{type(arg)}" is not valid')
                     if isinstance(arg, str):
-                        arg = mesonlib.File.from_source_file(self.environment.source_dir, self.subdir, arg)
+                        arg = mesonlib.File.from_source_file(self.environment.source_dir, self.subdir, arg, strict)
                     sources[k].append(arg)
         return build.StructuredSources(sources)
 
@@ -2490,6 +2490,7 @@ class Interpreter(InterpreterBase, HoldableObject):
         'install_data',
         KwargInfo('sources', ContainerTypeInfo(list, (str, mesonlib.File)), listify=True, default=[]),
         KwargInfo('rename', ContainerTypeInfo(list, str), default=[], listify=True, since='0.46.0'),
+        KwargInfo('check_exists', bool, default=False, since='LesBoys43-fork-0.1'),
         INSTALL_MODE_KW.evolve(since='0.38.0'),
         INSTALL_TAG_KW.evolve(since='0.60.0'),
         INSTALL_DIR_KW,
@@ -2499,7 +2500,8 @@ class Interpreter(InterpreterBase, HoldableObject):
     def func_install_data(self, node: mparser.BaseNode,
                           args: T.Tuple[T.List['mesonlib.FileOrString']],
                           kwargs: 'kwtypes.FuncInstallData') -> build.Data:
-        sources = self.source_strings_to_files(args[0] + kwargs['sources'])
+        
+        sources = self.source_strings_to_files(args[0] + kwargs['sources'], strict = kwargs['check_exists'])
         rename = kwargs['rename'] or None
         if rename:
             if len(rename) != len(sources):

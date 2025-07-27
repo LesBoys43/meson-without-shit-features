@@ -1,0 +1,554 @@
+import _frozen_importlib # frozen
+import _imp # builtin
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'posix' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+# installing zipimport hook
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+import 'zipimport' # <class '_frozen_importlib.FrozenImporter'>
+# installed zipimport hook
+# /usr/lib/python3.13/encodings/__pycache__/__init__.cpython-313.pyc matches /usr/lib/python3.13/encodings/__init__.py
+# code object from '/usr/lib/python3.13/encodings/__pycache__/__init__.cpython-313.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <class '_frozen_importlib.FrozenImporter'>
+# /usr/lib/python3.13/encodings/__pycache__/aliases.cpython-313.pyc matches /usr/lib/python3.13/encodings/aliases.py
+# code object from '/usr/lib/python3.13/encodings/__pycache__/aliases.cpython-313.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x77b88ce210>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x77b88492b0>
+# /usr/lib/python3.13/encodings/__pycache__/utf_8.cpython-313.pyc matches /usr/lib/python3.13/encodings/utf_8.py
+# code object from '/usr/lib/python3.13/encodings/__pycache__/utf_8.cpython-313.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x77b88ce350>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+import '_abc' # <class '_frozen_importlib.BuiltinImporter'>
+import 'abc' # <class '_frozen_importlib.FrozenImporter'>
+import 'io' # <class '_frozen_importlib.FrozenImporter'>
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <class '_frozen_importlib.FrozenImporter'>
+import '_collections_abc' # <class '_frozen_importlib.FrozenImporter'>
+import 'errno' # <class '_frozen_importlib.BuiltinImporter'>
+import 'genericpath' # <class '_frozen_importlib.FrozenImporter'>
+import 'posixpath' # <class '_frozen_importlib.FrozenImporter'>
+import 'os' # <class '_frozen_importlib.FrozenImporter'>
+import '_sitebuiltins' # <class '_frozen_importlib.FrozenImporter'>
+Processing user site-packages
+Processing global site-packages
+Adding directory: '/usr/lib/python3.13/site-packages'
+import 'site' # <class '_frozen_importlib.FrozenImporter'>
+Python 3.13.5 (main, Jun 23 2025, 19:49:08) [GCC 14.2.1 20250207] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+# /usr/lib/python3.13/importlib/__pycache__/__init__.cpython-313.pyc matches /usr/lib/python3.13/importlib/__init__.py
+# code object from '/usr/lib/python3.13/importlib/__pycache__/__init__.cpython-313.pyc'
+import 'importlib' # <_frozen_importlib_external.SourceFileLoader object at 0x77b88ba520>
+import 'importlib.machinery' # <class '_frozen_importlib.FrozenImporter'>
+# /usr/lib/python3.13/importlib/__pycache__/_abc.cpython-313.pyc matches /usr/lib/python3.13/importlib/_abc.py
+# code object from '/usr/lib/python3.13/importlib/__pycache__/_abc.cpython-313.pyc'
+import 'importlib._abc' # <_frozen_importlib_external.SourceFileLoader object at 0x77b88ba650>
+# /usr/lib/python3.13/__pycache__/types.cpython-313.pyc matches /usr/lib/python3.13/types.py
+# code object from '/usr/lib/python3.13/__pycache__/types.cpython-313.pyc'
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x77b8724290>
+import 'importlib.util' # <class '_frozen_importlib.FrozenImporter'>
+import 'runpy' # <class '_frozen_importlib.FrozenImporter'>
+# /usr/lib/python3.13/site-packages/mesonbuild/__pycache__/__init__.cpython-313.pyc matches /usr/lib/python3.13/site-packages/mesonbuild/__init__.py
+# code object from '/usr/lib/python3.13/site-packages/mesonbuild/__pycache__/__init__.cpython-313.pyc'
+import 'mesonbuild' # <_frozen_importlib_external.SourceFileLoader object at 0x77b87147c0>
+# /usr/lib/python3.13/site-packages/mesonbuild/__pycache__/mesonmain.cpython-313.pyc matches /usr/lib/python3.13/site-packages/mesonbuild/mesonmain.py
+# code object from '/usr/lib/python3.13/site-packages/mesonbuild/__pycache__/mesonmain.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/__future__.cpython-313.pyc matches /usr/lib/python3.13/__future__.py
+# code object from '/usr/lib/python3.13/__pycache__/__future__.cpython-313.pyc'
+import '__future__' # <_frozen_importlib_external.SourceFileLoader object at 0x77b86ef550>
+# /usr/lib/python3.13/site-packages/mesonbuild/__pycache__/_pathlib.cpython-313.pyc matches /usr/lib/python3.13/site-packages/mesonbuild/_pathlib.py
+# code object from '/usr/lib/python3.13/site-packages/mesonbuild/__pycache__/_pathlib.cpython-313.pyc'
+# /usr/lib/python3.13/pathlib/__pycache__/__init__.cpython-313.pyc matches /usr/lib/python3.13/pathlib/__init__.py
+# code object from '/usr/lib/python3.13/pathlib/__pycache__/__init__.cpython-313.pyc'
+# /usr/lib/python3.13/pathlib/__pycache__/_abc.cpython-313.pyc matches /usr/lib/python3.13/pathlib/_abc.py
+# code object from '/usr/lib/python3.13/pathlib/__pycache__/_abc.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/functools.cpython-313.pyc matches /usr/lib/python3.13/functools.py
+# code object from '/usr/lib/python3.13/__pycache__/functools.cpython-313.pyc'
+# /usr/lib/python3.13/collections/__pycache__/__init__.cpython-313.pyc matches /usr/lib/python3.13/collections/__init__.py
+# code object from '/usr/lib/python3.13/collections/__pycache__/__init__.cpython-313.pyc'
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# /usr/lib/python3.13/__pycache__/keyword.cpython-313.pyc matches /usr/lib/python3.13/keyword.py
+# code object from '/usr/lib/python3.13/__pycache__/keyword.cpython-313.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x77b872fc70>
+# /usr/lib/python3.13/__pycache__/operator.cpython-313.pyc matches /usr/lib/python3.13/operator.py
+# code object from '/usr/lib/python3.13/__pycache__/operator.cpython-313.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x77b885af90>
+# /usr/lib/python3.13/__pycache__/reprlib.cpython-313.pyc matches /usr/lib/python3.13/reprlib.py
+# code object from '/usr/lib/python3.13/__pycache__/reprlib.cpython-313.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x77b885b050>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x77b873a7b0>
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x77b873a430>
+# /usr/lib/python3.13/__pycache__/glob.cpython-313.pyc matches /usr/lib/python3.13/glob.py
+# code object from '/usr/lib/python3.13/__pycache__/glob.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/contextlib.cpython-313.pyc matches /usr/lib/python3.13/contextlib.py
+# code object from '/usr/lib/python3.13/__pycache__/contextlib.cpython-313.pyc'
+import 'contextlib' # <_frozen_importlib_external.SourceFileLoader object at 0x77b87945d0>
+# /usr/lib/python3.13/re/__pycache__/__init__.cpython-313.pyc matches /usr/lib/python3.13/re/__init__.py
+# code object from '/usr/lib/python3.13/re/__pycache__/__init__.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/enum.cpython-313.pyc matches /usr/lib/python3.13/enum.py
+# code object from '/usr/lib/python3.13/__pycache__/enum.cpython-313.pyc'
+import 'enum' # <_frozen_importlib_external.SourceFileLoader object at 0x77b85ee490>
+# /usr/lib/python3.13/re/__pycache__/_compiler.cpython-313.pyc matches /usr/lib/python3.13/re/_compiler.py
+# code object from '/usr/lib/python3.13/re/__pycache__/_compiler.cpython-313.pyc'
+import '_sre' # <class '_frozen_importlib.BuiltinImporter'>
+# /usr/lib/python3.13/re/__pycache__/_parser.cpython-313.pyc matches /usr/lib/python3.13/re/_parser.py
+# code object from '/usr/lib/python3.13/re/__pycache__/_parser.cpython-313.pyc'
+# /usr/lib/python3.13/re/__pycache__/_constants.cpython-313.pyc matches /usr/lib/python3.13/re/_constants.py
+# code object from '/usr/lib/python3.13/re/__pycache__/_constants.cpython-313.pyc'
+import 're._constants' # <_frozen_importlib_external.SourceFileLoader object at 0x77b860d250>
+import 're._parser' # <_frozen_importlib_external.SourceFileLoader object at 0x77b860ce50>
+# /usr/lib/python3.13/re/__pycache__/_casefix.cpython-313.pyc matches /usr/lib/python3.13/re/_casefix.py
+# code object from '/usr/lib/python3.13/re/__pycache__/_casefix.cpython-313.pyc'
+import 're._casefix' # <_frozen_importlib_external.SourceFileLoader object at 0x77b877c910>
+import 're._compiler' # <_frozen_importlib_external.SourceFileLoader object at 0x77b879c4d0>
+# /usr/lib/python3.13/__pycache__/copyreg.cpython-313.pyc matches /usr/lib/python3.13/copyreg.py
+# code object from '/usr/lib/python3.13/__pycache__/copyreg.cpython-313.pyc'
+import 'copyreg' # <_frozen_importlib_external.SourceFileLoader object at 0x77b877c7c0>
+import 're' # <_frozen_importlib_external.SourceFileLoader object at 0x77b85d36b0>
+# /usr/lib/python3.13/__pycache__/fnmatch.cpython-313.pyc matches /usr/lib/python3.13/fnmatch.py
+# code object from '/usr/lib/python3.13/__pycache__/fnmatch.cpython-313.pyc'
+import 'fnmatch' # <_frozen_importlib_external.SourceFileLoader object at 0x77b8768830>
+import 'glob' # <_frozen_importlib_external.SourceFileLoader object at 0x77b8794520>
+import 'pathlib._abc' # <_frozen_importlib_external.SourceFileLoader object at 0x77b87017c0>
+# /usr/lib/python3.13/pathlib/__pycache__/_local.cpython-313.pyc matches /usr/lib/python3.13/pathlib/_local.py
+# code object from '/usr/lib/python3.13/pathlib/__pycache__/_local.cpython-313.pyc'
+import 'ntpath' # <class '_frozen_importlib.FrozenImporter'>
+# /usr/lib/python3.13/__pycache__/warnings.cpython-313.pyc matches /usr/lib/python3.13/warnings.py
+# code object from '/usr/lib/python3.13/__pycache__/warnings.cpython-313.pyc'
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x77b85dfcb0>
+import 'pwd' # <class '_frozen_importlib.BuiltinImporter'>
+# extension module 'grp' loaded from '/usr/lib/python3.13/lib-dynload/grp.cpython-313-aarch64-linux-gnu.so'
+# extension module 'grp' executed from '/usr/lib/python3.13/lib-dynload/grp.cpython-313-aarch64-linux-gnu.so'
+import 'grp' # <_frozen_importlib_external.ExtensionFileLoader object at 0x77b878ae40>
+import 'pathlib._local' # <_frozen_importlib_external.SourceFileLoader object at 0x77b876bd10>
+import 'pathlib' # <_frozen_importlib_external.SourceFileLoader object at 0x77b87015e0>
+# /usr/lib/python3.13/__pycache__/platform.cpython-313.pyc matches /usr/lib/python3.13/platform.py
+# code object from '/usr/lib/python3.13/__pycache__/platform.cpython-313.pyc'
+import 'platform' # <_frozen_importlib_external.SourceFileLoader object at 0x77b871b470>
+import 'mesonbuild._pathlib' # <_frozen_importlib_external.SourceFileLoader object at 0x77b86ef650>
+# /usr/lib/python3.13/__pycache__/argparse.cpython-313.pyc matches /usr/lib/python3.13/argparse.py
+# code object from '/usr/lib/python3.13/__pycache__/argparse.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/gettext.cpython-313.pyc matches /usr/lib/python3.13/gettext.py
+# code object from '/usr/lib/python3.13/__pycache__/gettext.cpython-313.pyc'
+import 'gettext' # <_frozen_importlib_external.SourceFileLoader object at 0x77b8652810>
+import 'argparse' # <_frozen_importlib_external.SourceFileLoader object at 0x77b8652390>
+# /usr/lib/python3.13/__pycache__/typing.cpython-313.pyc matches /usr/lib/python3.13/typing.py
+# code object from '/usr/lib/python3.13/__pycache__/typing.cpython-313.pyc'
+import '_typing' # <class '_frozen_importlib.BuiltinImporter'>
+import 'typing' # <_frozen_importlib_external.SourceFileLoader object at 0x77b8653050>
+# /usr/lib/python3.13/site-packages/mesonbuild/utils/__pycache__/__init__.cpython-313.pyc matches /usr/lib/python3.13/site-packages/mesonbuild/utils/__init__.py
+# code object from '/usr/lib/python3.13/site-packages/mesonbuild/utils/__pycache__/__init__.cpython-313.pyc'
+import 'mesonbuild.utils' # <_frozen_importlib_external.SourceFileLoader object at 0x77b845bfb0>
+# /usr/lib/python3.13/site-packages/mesonbuild/utils/__pycache__/core.cpython-313.pyc matches /usr/lib/python3.13/site-packages/mesonbuild/utils/core.py
+# code object from '/usr/lib/python3.13/site-packages/mesonbuild/utils/__pycache__/core.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/dataclasses.cpython-313.pyc matches /usr/lib/python3.13/dataclasses.py
+# code object from '/usr/lib/python3.13/__pycache__/dataclasses.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/copy.cpython-313.pyc matches /usr/lib/python3.13/copy.py
+# code object from '/usr/lib/python3.13/__pycache__/copy.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/weakref.cpython-313.pyc matches /usr/lib/python3.13/weakref.py
+# code object from '/usr/lib/python3.13/__pycache__/weakref.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/_weakrefset.cpython-313.pyc matches /usr/lib/python3.13/_weakrefset.py
+# code object from '/usr/lib/python3.13/__pycache__/_weakrefset.cpython-313.pyc'
+import '_weakrefset' # <_frozen_importlib_external.SourceFileLoader object at 0x77b848af90>
+import 'weakref' # <_frozen_importlib_external.SourceFileLoader object at 0x77b848a8d0>
+import 'copy' # <_frozen_importlib_external.SourceFileLoader object at 0x77b848a030>
+# /usr/lib/python3.13/__pycache__/inspect.cpython-313.pyc matches /usr/lib/python3.13/inspect.py
+# code object from '/usr/lib/python3.13/__pycache__/inspect.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/traceback.cpython-313.pyc matches /usr/lib/python3.13/traceback.py
+# code object from '/usr/lib/python3.13/__pycache__/traceback.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/linecache.cpython-313.pyc matches /usr/lib/python3.13/linecache.py
+# code object from '/usr/lib/python3.13/__pycache__/linecache.cpython-313.pyc'
+import 'linecache' # <_frozen_importlib_external.SourceFileLoader object at 0x77b848bdd0>
+# /usr/lib/python3.13/__pycache__/textwrap.cpython-313.pyc matches /usr/lib/python3.13/textwrap.py
+# code object from '/usr/lib/python3.13/__pycache__/textwrap.cpython-313.pyc'
+import 'textwrap' # <_frozen_importlib_external.SourceFileLoader object at 0x77b8530410>
+# /usr/lib/python3.13/__pycache__/_colorize.cpython-313.pyc matches /usr/lib/python3.13/_colorize.py
+# code object from '/usr/lib/python3.13/__pycache__/_colorize.cpython-313.pyc'
+import '_colorize' # <_frozen_importlib_external.SourceFileLoader object at 0x77b85311f0>
+import 'traceback' # <_frozen_importlib_external.SourceFileLoader object at 0x77b8489c10>
+# /usr/lib/python3.13/__pycache__/tokenize.cpython-313.pyc matches /usr/lib/python3.13/tokenize.py
+# code object from '/usr/lib/python3.13/__pycache__/tokenize.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/token.cpython-313.pyc matches /usr/lib/python3.13/token.py
+# code object from '/usr/lib/python3.13/__pycache__/token.cpython-313.pyc'
+import 'token' # <_frozen_importlib_external.SourceFileLoader object at 0x77b8531010>
+import '_tokenize' # <class '_frozen_importlib.BuiltinImporter'>
+import 'tokenize' # <_frozen_importlib_external.SourceFileLoader object at 0x77b8530950>
+# /usr/lib/python3.13/__pycache__/dataclasses.cpython-313.pyc matches /usr/lib/python3.13/dataclasses.py
+# code object from '/usr/lib/python3.13/__pycache__/dataclasses.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/inspect.cpython-313.pyc matches /usr/lib/python3.13/inspect.py
+# code object from '/usr/lib/python3.13/__pycache__/inspect.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# destroy ast.interpreter
+# destroy ast
+# destroy inspect
+# destroy dataclasses
+Traceback (most recent call last):
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/dataclasses.cpython-313.pyc matches /usr/lib/python3.13/dataclasses.py
+# code object from '/usr/lib/python3.13/__pycache__/dataclasses.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/inspect.cpython-313.pyc matches /usr/lib/python3.13/inspect.py
+# code object from '/usr/lib/python3.13/__pycache__/inspect.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/dis.cpython-313.pyc matches /usr/lib/python3.13/dis.py
+# code object from '/usr/lib/python3.13/__pycache__/dis.cpython-313.pyc'
+# /usr/lib/python3.13/__pycache__/opcode.cpython-313.pyc matches /usr/lib/python3.13/opcode.py
+# code object from '/usr/lib/python3.13/__pycache__/opcode.cpython-313.pyc'
+# extension module '_opcode' loaded from '/usr/lib/python3.13/lib-dynload/_opcode.cpython-313-aarch64-linux-gnu.so'
+# extension module '_opcode' executed from '/usr/lib/python3.13/lib-dynload/_opcode.cpython-313-aarch64-linux-gnu.so'
+import '_opcode' # <_frozen_importlib_external.ExtensionFileLoader object at 0x77b83fc410>
+# /usr/lib/python3.13/__pycache__/_opcode_metadata.cpython-313.pyc matches /usr/lib/python3.13/_opcode_metadata.py
+# code object from '/usr/lib/python3.13/__pycache__/_opcode_metadata.cpython-313.pyc'
+import '_opcode_metadata' # <_frozen_importlib_external.SourceFileLoader object at 0x77b8414d70>
+import 'opcode' # <_frozen_importlib_external.SourceFileLoader object at 0x77b83dfef0>
+import 'dis' # <_frozen_importlib_external.SourceFileLoader object at 0x77b83de750>
+import 'inspect' # <_frozen_importlib_external.SourceFileLoader object at 0x77b83dd8b0>
+import 'dataclasses' # <_frozen_importlib_external.SourceFileLoader object at 0x77b83dc8f0>
+# destroy ast.interpreter
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# destroy ast.interpreter
+# destroy ast
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# destroy ast.interpreter
+# destroy ast
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# destroy ast.interpreter
+# destroy ast
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# destroy ast.interpreter
+# destroy ast
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# destroy ast.interpreter
+# destroy ast
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# destroy ast.interpreter
+# destroy ast
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# destroy ast.interpreter
+# destroy ast
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# destroy ast.interpreter
+# destroy ast
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# destroy ast.interpreter
+# destroy ast
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# destroy ast.interpreter
+# destroy ast
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/__init__.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/__init__.cpython-313.pyc'
+# /sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc matches /sdcard/mwsf/mesonbuild/ast/interpreter.py
+# code object from '/sdcard/mwsf/mesonbuild/ast/__pycache__/interpreter.cpython-313.pyc'
+# destroy ast.interpreter
+# destroy ast
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/usr/lib/python3.13/site-packages/mesonbuild/mesonmain.py", line 20, in <module>
+    from .utils.core import MesonException, MesonBugException
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/usr/lib/python3.13/site-packages/mesonbuild/utils/core.py", line 13, in <module>
+    from dataclasses import dataclass
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/usr/lib/python3.13/dataclasses.py", line 5, in <module>
+    import inspect
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/usr/lib/python3.13/inspect.py", line 145, in <module>
+    import ast
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/sdcard/mwsf/mesonbuild/ast/__init__.py", line 19, in <module>
+    from .interpreter import AstInterpreter
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/sdcard/mwsf/mesonbuild/ast/interpreter.py", line 12, in <module>
+    from dataclasses import dataclass
+ImportError: cannot import name 'dataclass' from partially initialized module 'dataclasses' (most likely due to a circular import) (/usr/lib/python3.13/dataclasses.py)
+# clear sys.path_importer_cache
+# clear sys.path_hooks
+# clear builtins._
+# clear sys.path
+# clear sys.argv
+# clear sys.ps1
+# clear sys.ps2
+# clear sys.last_exc
+# clear sys.last_type
+# clear sys.last_value
+# clear sys.last_traceback
+# destroy ast.interpreter
+# destroy ast
+# destroy inspect
+# destroy dataclasses
+# destroy mesonbuild.utils.core
+# clear sys.__interactivehook__
+# clear sys.meta_path
+# restore sys.stdin
+# restore sys.stdout
+# restore sys.stderr
+# cleanup[2] removing sys
+# cleanup[2] removing builtins
+# cleanup[2] removing _frozen_importlib
+# cleanup[2] removing _imp
+# cleanup[2] removing _thread
+# cleanup[2] removing _warnings
+# cleanup[2] removing _weakref
+# cleanup[2] removing _io
+# cleanup[2] removing marshal
+# cleanup[2] removing posix
+# cleanup[2] removing _frozen_importlib_external
+# cleanup[2] removing time
+# cleanup[2] removing zipimport
+# destroy zipimport
+# cleanup[2] removing _codecs
+# cleanup[2] removing codecs
+# cleanup[2] removing encodings.aliases
+# cleanup[2] removing encodings
+# destroy encodings
+# cleanup[2] removing encodings.utf_8
+# cleanup[2] removing _signal
+# cleanup[2] removing _abc
+# cleanup[2] removing abc
+# cleanup[2] removing io
+# cleanup[2] removing __main__
+# destroy __main__
+# cleanup[2] removing _stat
+# cleanup[2] removing stat
+# cleanup[2] removing _collections_abc
+# cleanup[2] removing errno
+# cleanup[2] removing genericpath
+# cleanup[2] removing posixpath
+# cleanup[2] removing os.path
+# cleanup[2] removing os
+# cleanup[2] removing _sitebuiltins
+# cleanup[2] removing site
+# destroy site
+# cleanup[2] removing importlib._bootstrap
+# cleanup[2] removing importlib._bootstrap_external
+# cleanup[2] removing importlib
+# cleanup[2] removing importlib.machinery
+# cleanup[2] removing importlib._abc
+# cleanup[2] removing types
+# cleanup[2] removing importlib.util
+# cleanup[2] removing runpy
+# destroy runpy
+# cleanup[2] removing mesonbuild
+# destroy mesonbuild
+# cleanup[2] removing __future__
+# destroy __future__
+# cleanup[2] removing collections.abc
+# cleanup[2] removing itertools
+# cleanup[2] removing keyword
+# cleanup[2] removing _operator
+# cleanup[2] removing operator
+# cleanup[2] removing reprlib
+# destroy reprlib
+# cleanup[2] removing _collections
+# cleanup[2] removing collections
+# cleanup[2] removing _functools
+# cleanup[2] removing functools
+# cleanup[2] removing contextlib
+# cleanup[2] removing enum
+# cleanup[2] removing _sre
+# cleanup[2] removing re._constants
+# cleanup[2] removing re._parser
+# cleanup[2] removing re._casefix
+# cleanup[2] removing re._compiler
+# cleanup[2] removing copyreg
+# cleanup[2] removing re
+# cleanup[2] removing fnmatch
+# cleanup[2] removing glob
+# destroy glob
+# cleanup[2] removing pathlib._abc
+# cleanup[2] removing ntpath
+# cleanup[2] removing warnings
+# cleanup[2] removing pwd
+# cleanup[2] removing grp
+# cleanup[2] removing pathlib._local
+# cleanup[2] removing pathlib
+# cleanup[2] removing platform
+# cleanup[2] removing mesonbuild._pathlib
+# destroy mesonbuild._pathlib
+# destroy pathlib
+# destroy pathlib._abc
+# destroy pathlib._local
+# destroy platform
+# cleanup[2] removing gettext
+# destroy gettext
+# cleanup[2] removing argparse
+# destroy argparse
+# cleanup[2] removing _typing
+# cleanup[2] removing typing
+# destroy typing
+# cleanup[2] removing mesonbuild.utils
+# destroy mesonbuild.utils
+# cleanup[2] removing _weakrefset
+# destroy _weakrefset
+# cleanup[2] removing weakref
+# destroy weakref
+# cleanup[2] removing copy
+# cleanup[2] removing linecache
+# cleanup[2] removing textwrap
+# cleanup[2] removing _colorize
+# cleanup[2] removing traceback
+# destroy traceback
+# cleanup[2] removing token
+# cleanup[2] removing _tokenize
+# cleanup[2] removing tokenize
+# cleanup[2] removing _opcode
+# cleanup[2] removing _opcode_metadata
+# destroy _opcode_metadata
+# cleanup[2] removing opcode
+# destroy opcode
+# cleanup[2] removing dis
+# cleanup[2] removing inspect
+# cleanup[2] removing dataclasses
+# destroy dataclasses
+# destroy time
+# destroy _signal
+# destroy _sitebuiltins
+# destroy errno
+# destroy importlib.machinery
+# destroy importlib._abc
+# destroy importlib.util
+# destroy pwd
+# destroy grp
+# destroy genericpath
+# destroy _typing
+# destroy textwrap
+# destroy warnings
+# destroy _colorize
+# destroy _tokenize
+# destroy _opcode
+# destroy io
+# destroy _stat
+# destroy _abc
+# destroy _collections_abc
+# destroy _collections
+# destroy contextlib
+# destroy fnmatch
+# destroy operator
+# destroy stat
+# destroy re._constants
+# destroy re._casefix
+# destroy re._compiler
+# destroy copyreg
+# destroy _sre
+# destroy re._parser
+# destroy _functools
+# destroy _operator
+# destroy posixpath
+# destroy ntpath
+# destroy copy
+# destroy inspect
+# destroy keyword
+# destroy abc
+# destroy ast
+# destroy dis
+# destroy collections
+# destroy enum
+# destroy importlib
+# destroy itertools
+# destroy linecache
+# destroy os
+# destroy re
+# destroy tokenize
+# destroy token
+# destroy types
+# destroy functools
+# cleanup[3] wiping importlib._bootstrap_external
+# cleanup[3] wiping importlib._bootstrap
+# destroy _frozen_importlib_external
+# cleanup[3] wiping encodings.utf_8
+# cleanup[3] wiping encodings.aliases
+# cleanup[3] wiping codecs
+# cleanup[3] wiping _codecs
+# cleanup[3] wiping posix
+# cleanup[3] wiping marshal
+# destroy marshal
+# cleanup[3] wiping _io
+# cleanup[3] wiping _weakref
+# destroy _weakref
+# cleanup[3] wiping _warnings
+# destroy _warnings
+# cleanup[3] wiping _thread
+# cleanup[3] wiping _imp
+# destroy _imp
+# cleanup[3] wiping _frozen_importlib
+# cleanup[3] wiping sys
+# cleanup[3] wiping builtins
+# destroy sys.monitoring
+# destroy _thread
+# destroy _io
+# destroy posix
+# clear sys.meta_path
+# clear sys.modules
+# destroy _frozen_importlib
+# destroy codecs
+# destroy sys
+# destroy encodings.aliases
+# destroy encodings.utf_8
+# destroy builtins
+# destroy _codecs
+# clear sys.audit hooks
